@@ -36,7 +36,7 @@ In case of using fixed band (also called graphic) equalizer, apply preamp of **-
 | Peaking | 16000 Hz | 1.5 | -2.9 dB |
 
 ### Graphs
-![](https://raw.githubusercontent.com/jaakkopasanen/AutoEq/master/results/banbeucmas/Tin%20Audio%20T2%20(Moondrop%20Kanas%20Pro)/Tin%20Audio%20T2.png)
+![](https://raw.githubusercontent.com/banbeucmas/AutoEq/master/results/banbeucmas/Tin%20Audio%20T2%20(Moondrop%20Kanas%20Pro)/Tin%20Audio%20T2.png)
 
 ### Commands
 ```bash
