@@ -1,0 +1,2 @@
+Filter 1: ON PK Fc 41 Hz Gain 6.5 dB Q 0.27
+Filter 2: ON PK Fc 204 Hz Gain -2.3 dB Q 0.57
