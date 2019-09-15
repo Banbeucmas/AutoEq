@@ -914,7 +914,7 @@ class FrequencyResponse:
         if os.path.isfile(img_path):
             img_rel_path = os.path.relpath(img_path, ROOT_DIR)
             img_url = '/'.join(self._split_path(img_rel_path))
-            img_url = 'https://raw.githubusercontent.com/jaakkopasanen/AutoEq/master/{}'.format(img_url)
+            img_url = 'https://raw.githubusercontent.com/banbeucmas/AutoEq/master/{}'.format(img_url)
             img_url = urllib.parse.quote(img_url, safe="%/:=&?~#+!$,;'@()*[]")
             s += '''
             ### Graphs
