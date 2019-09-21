@@ -29,4 +29,4 @@ In case of using fixed band (also called graphic) equalizer, apply preamp of **-
 | Peaking | 16000 Hz | 1.5 | -0.5 dB |
 
 ### Graphs
-![](https://raw.githubusercontent.com/jaakkopasanen/AutoEq/master/results/banbeucmas/Tin%20Audio%20T2%20(+4%20Bass)/Tin%20Audio%20T2.png)
+![](https://raw.githubusercontent.com/banbeucmas/AutoEq/master/results/banbeucmas/Tin%20Audio%20T2%20(+4%20Bass)/Tin%20Audio%20T2.png)
